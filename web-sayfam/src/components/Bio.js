@@ -12,7 +12,7 @@ export default function Bio({ language }) {
         {language === "en" ? (
           <div>
             <h2>
-              Solutions for
+               Software solutions
               <br />
               Applications
             </h2>{" "}
