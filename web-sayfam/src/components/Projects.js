@@ -13,8 +13,8 @@ const projectsData = [
     img: "./icons/calculator.png",
     title: "Calculator",
     description:
-      "",
-    skills: ["JavaScript", "redux", "axios"],
+      "In this project, I created a simple calculator application that can add, multiply, subtract and subtract numbers in any order, as well as add save and callback features.",
+    skills: ["JavaScript", "redux", "useReducer"],
     gitHub: "",
     vievSite: "",
   },
@@ -29,8 +29,7 @@ const projectsData = [
   {
     img: "./icons/watchlist.png",
     title: "Watch List",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "axios"],
     gitHub: "",
     vievSite: "",
@@ -38,8 +37,7 @@ const projectsData = [
   {
     img: "./icons/s6-challenge.png",
     title: "Star Wars Carecters",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "useReducer"],
     gitHub: "",
     vievSite: "/",
@@ -47,8 +45,7 @@ const projectsData = [
   {
     img: "./icons/s9g2-ornek.png",
     title: "Task",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "localStorage"],
     gitHub: "",
     vievSite: "",
@@ -58,8 +55,7 @@ const projectsDataTr = [
   {
     img: "./icons/pizzaorder.png",
     title: "Pizza Siparişi",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "CSS", "Form"],
     gitHub: "",
     vievSite: "",
@@ -67,8 +63,7 @@ const projectsDataTr = [
   {
     img: "./icons/calculator.png",
     title: "Calculator",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "axios"],
     gitHub: "",
     vievSite: "",
@@ -84,8 +79,7 @@ const projectsDataTr = [
   {
     img: "./icons/watchlist.png",
     title: "Watch List",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "axios"],
     gitHub: "",
     vievSite: "",
@@ -93,8 +87,7 @@ const projectsDataTr = [
   {
     img: "./icons/s6-challenge.png",
     title: "Star Wars Carecters",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "useReducer"],
     gitHub: "",
     vievSite: "",
@@ -102,8 +95,7 @@ const projectsDataTr = [
   {
     img: "./icons/s9g2-ornek.png",
     title: "Task",
-    description:
-      "",
+    description: "",
     skills: ["JavaScript", "redux", "localStorage"],
     gitHub: "",
     vievSite: "",
