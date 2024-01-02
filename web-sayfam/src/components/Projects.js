@@ -7,7 +7,7 @@ const projectsData = [
       "A pizza ordering site that I made using routing, forms, cypress tests and css.",
     skills: ["JavaScript", "CSS", "Form"],
     gitHub: "https://github.com/didaryalcin/fsweb-s7-challenge-pizza",
-    vievSite: "",
+    vievSite: "https://fsweb-s7-challenge-pizza-zkla-eywp3g0g2-didaryalcins-projects.vercel.app",
   },
   {
     img: "./icons/calculator.png",
