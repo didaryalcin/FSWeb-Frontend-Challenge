@@ -15,7 +15,7 @@ const projectsData = [
     description:
       "In this project, I created a simple calculator application that can add, multiply, subtract and subtract numbers in any order, as well as add save and callback features.",
     skills: ["JavaScript", "redux", "useReducer"],
-    gitHub: "",
+    gitHub: "https://github.com/didaryalcin/fsweb-s10g1-reducer-calculator",
     vievSite: "",
   },
   {
@@ -23,7 +23,7 @@ const projectsData = [
     title: "Nasa",
     description: "",
     skills: ["JavaScript", "redux", "axios"],
-    gitHub: "",
+    gitHub: "https://github.com/didaryalcin/FSWeb-S6G3-Nasa",
     vievSite: "",
   },
   {
