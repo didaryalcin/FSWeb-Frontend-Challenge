@@ -36,7 +36,7 @@ export default function Footer({ language }) {
           </a>
           <a
             className="sagF3"
-            href="www.linkedin.com/in/didaryalcin"
+            href="https://www.linkedin.com/in/didaryalcin/"
             target="_blank"
             rel="noreferrer"
           >

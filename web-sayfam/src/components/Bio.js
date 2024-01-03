@@ -55,7 +55,7 @@ export default function Bio({ language }) {
             <div className="button-2">
               <img src=".\icons\github.png" alt="github" />
               <a
-                href= "https://github.com/didaryalcin"
+                href="https://github.com/didaryalcin"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -65,7 +65,7 @@ export default function Bio({ language }) {
             <div className="button-2">
               <img src=".\icons\LinkedIn.png" alt="linkedIn" />
               <a
-                href= "https://www.linkedin.com/in/didaryalcin/"
+                href="https://www.linkedin.com/in/didaryalcin/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -93,7 +93,7 @@ export default function Bio({ language }) {
             <div className="button-2">
               <img src=".\icons\LinkedIn.png" alt="linkedIn" />
               <a
-                href= "https://www.linkedin.com/in/didaryalcin/"
+                href="https://www.linkedin.com/in/didaryalcin/"
                 target="_blank"
                 rel="noreferrer"
               >
