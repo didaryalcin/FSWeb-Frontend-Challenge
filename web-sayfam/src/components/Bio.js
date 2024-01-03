@@ -12,9 +12,9 @@ export default function Bio({ language }) {
         {language === "en" ? (
           <div>
             <h2>
-               Software solutions
+            Forward-Looking Solutions  
               <br />
-              Applications
+              in the Digital World
             </h2>{" "}
             <br /> <br />
             <p className="isimP">
@@ -30,9 +30,9 @@ export default function Bio({ language }) {
         ) : (
           <div>
             <h2>
-              Web Uygulamaları
+            "Dijital Dünyada İleriye 
               <br />
-              için Çözümler
+              Yönelik Çözümler
             </h2>
             <p className="isimP">
               Merhaba, Ben Didar. İstanbul'da yaşayan bir Full Stack Web
