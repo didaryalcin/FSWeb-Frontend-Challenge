@@ -12,7 +12,7 @@ export default function Bio({ language }) {
         {language === "en" ? (
           <div>
             <h2>
-            Forward-Looking Solutions  
+              Forward-Looking Solutions
               <br />
               in the Digital World
             </h2>{" "}
@@ -30,7 +30,7 @@ export default function Bio({ language }) {
         ) : (
           <div>
             <h2>
-            "Dijital Dünyada İleriye 
+              "Dijital Dünyada İleriye
               <br />
               Yönelik Çözümler
             </h2>
