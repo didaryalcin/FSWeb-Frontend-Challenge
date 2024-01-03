@@ -87,7 +87,7 @@ export default function Bio({ language }) {
                 target="_blank"
                 rel="noreferrer"
               >
-                <p>GitHub</p>
+                
               </a>
             </div>
             <div className="button-2">
@@ -97,7 +97,7 @@ export default function Bio({ language }) {
                 target="_blank"
                 rel="noreferrer"
               >
-                <p>LinkedIn</p>
+              
               </a>
             </div>
           </div>
