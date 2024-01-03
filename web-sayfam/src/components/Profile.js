@@ -61,7 +61,7 @@ export default function Profile({ language }) {
           </div>
         ) : (
           <div className="aboutMe">
-            <h4>About Me</h4>
+            <h4>Hakkımda</h4>
             <p>
               Doğuş Üniversitesi Endüstri Ürünleri Tasarımı bölümünden mezun
               oldum. Eğitimim süresince, Erasmus programı fırsatıyla bir yıl
