@@ -11,14 +11,14 @@ export default function Profile({ language }) {
           <div className="dogumTarihi">
             <div className="solBolum">
               <p>{language === "en" ? "Date of birth" : "Doğum tarihi"}</p>
-              <p>{language === "en" ? "City of residence" : "İkamet şehrim"}</p>
+              <p>{language === "en" ? "City of residence" : "İkamet şehri"}</p>
               <p>
-                {language === "en" ? "Educational status" : "Eğitim bilgilerim"}
+                {language === "en" ? "Educational status" : "Eğitim bilgileri"}
               </p>
               <br />
               <br />
               <p>
-                {language === "en" ? "Preferred role" : "Tercih ettiğim rol"}
+                {language === "en" ? "Preferred role" : "Tercih ettiği rol"}
               </p>
             </div>
             <div className="sagBolum">
